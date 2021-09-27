@@ -1,0 +1,6 @@
+.idea
+target
+*.iml
+/src/test/resources/database.properties
+/logs/
+/src/test/resources/connect.properties
